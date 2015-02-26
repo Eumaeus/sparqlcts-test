@@ -7,7 +7,7 @@
 ## Shortest path to running using all default settings ##
 
 
-To be added
+To be added.
 
 ## How to use `sparqlcts` more generally
 
